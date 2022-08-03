@@ -26,5 +26,4 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'wlemos',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_jp\\core': {'hello_labdata_jp\\core.hello': 'https://wlemos.github.io/hello_labdata_jp/hello_labdata_jp\\core.html#hello'},
-            'hello_labdata_jp\\greetings': { 'hello_labdata_jp\\greetings.hello': 'https://wlemos.github.io/hello_labdata_jp/hello_labdata_jp\\greetings.html#hello'}}}
+  'syms': { 'hello_labdata_jp\\greetings': { 'hello_labdata_jp\\greetings.hello': 'https://wlemos.github.io/hello_labdata_jp/hello_labdata_jp\\greetings.html#hello'}}}
