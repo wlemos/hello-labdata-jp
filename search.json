@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "greetings.html",
+    "href": "greetings.html",
+    "title": "Greetings",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\nComo utilizar:\n\nhello(to=\"Wagner\")\n\n'Hi Wagner!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello-labdata-jp",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hello-labdata-jp",
+    "section": "Install",
+    "text": "Install\npip install your_project_name"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello-labdata-jp",
+    "section": "How to use",
+    "text": "How to use\nUse esse pacote para cumprimentar as pessoas\n\nhello(to='Maria')\n\n2"
+  },
+  {
+    "objectID": "jokes.html",
+    "href": "jokes.html",
+    "title": "Jokes",
+    "section": "",
+    "text": "qual_time_nao_tem_mundial\n\n qual_time_nao_tem_mundial ()\n\nComo utilizar:\n\nqual_time_nao_tem_mundial()\n\n'Palmeiras!'"
+  }
+]
