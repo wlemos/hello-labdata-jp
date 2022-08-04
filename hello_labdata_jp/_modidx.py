@@ -26,5 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'wlemos',
                 'version': '0.0.3'},
-  'syms': { 'hello_labdata_jp\\greetings': { 'hello_labdata_jp\\greetings.hello': 'https://wlemos.github.io/hello_labdata_jp/hello_labdata_jp\\greetings.html#hello'},
-            'hello_labdata_jp\\jokes': { 'hello_labdata_jp\\jokes.qual_time_nao_tem_mundial': 'https://wlemos.github.io/hello_labdata_jp/hello_labdata_jp\\jokes.html#qual_time_nao_tem_mundial'}}}
+  'syms': { 'hello_labdata_jp.greetings': {'hello_labdata_jp.greetings.hello': 'https://wlemos.github.io/hello_labdata_jp/greetings.html#hello'},
+            'hello_labdata_jp.jokes': { 'hello_labdata_jp.jokes.qual_time_nao_tem_mundial': 'https://wlemos.github.io/hello_labdata_jp/jokes.html#qual_time_nao_tem_mundial'}}}
